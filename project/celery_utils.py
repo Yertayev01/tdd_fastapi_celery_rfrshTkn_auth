@@ -2,10 +2,9 @@ import functools
 
 from celery import current_app as current_celery_app, shared_task
 from celery.result import AsyncResult
-from celery.utils.time import get_exponential_backoff_interval
 
 from project.config import settings
-
+from celery.utils.time import get_exponential_backoff_interval
 
 def create_celery():
     celery_app = current_celery_app

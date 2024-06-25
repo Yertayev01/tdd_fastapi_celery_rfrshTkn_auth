@@ -38,18 +38,18 @@ def task_process_notification(self):
 
     requests.post("https://httpbin.org/delay/5")
 
-@shared_task(bind=True)
-def task_process_notification(self):
-    try:
-        if not random.choice([0, 1]):
-            # mimic random error
-            raise Exception()
+# @shared_task(bind=True)
+# def task_process_notification(self):
+#     try:
+#         if not random.choice([0, 1]):
+#             # mimic random error
+#             raise Exception()
 
-        # this would block the I/O
-        requests.post("https://httpbin.org/delay/5")
-    except Exception as e:
-        logger.error("exception raised, it would be retry after 5 seconds")
-        raise self.retry(exc=e, countdown=5)
+#         # this would block the I/O
+#         requests.post("https://httpbin.org/delay/5")
+#     except Exception as e:
+#         logger.error("exception raised, it would be retry after 5 seconds")
+#         raise self.retry(exc=e, countdown=5)
     
 @custom_celery_task(max_retries=3)
 def task_process_notification():
@@ -58,7 +58,6 @@ def task_process_notification():
         raise Exception()
 
     requests.post("https://httpbin.org/delay/5")
-    
     
 @task_postrun.connect
 def task_postrun_handler(task_id, **kwargs):

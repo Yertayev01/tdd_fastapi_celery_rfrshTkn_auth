@@ -25,9 +25,9 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data/
     environment:
-      - POSTGRES_DB=fastapi_celery
-      - POSTGRES_USER=fastapi_celery
-      - POSTGRES_PASSWORD=fastapi_celery
+      - POSTGRES_DB=anchorWorldFastapiCelery
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
 
   redis:
     image: redis:7-alpine

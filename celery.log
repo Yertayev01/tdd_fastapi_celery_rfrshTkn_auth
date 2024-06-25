@@ -1847,3 +1847,1238 @@ you should set broker_connection_retry_on_startup to True.
 [2024-06-24 09:04:01,262: INFO/MainProcess] mingle: all alone
 [2024-06-24 09:04:01,307: INFO/MainProcess] celery@98f6170db9db ready.
 [2024-06-24 09:04:01,553: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-24 09:04:30,353: INFO/MainProcess] beat: Starting...
+[2024-06-24 09:04:30,735: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-24 09:04:30,736: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-24 09:04:32,069: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-24 09:04:32,093: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-24 09:04:32,098: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-24 09:04:32,113: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-24 09:04:33,141: INFO/MainProcess] mingle: all alone
+[2024-06-24 09:04:33,185: INFO/MainProcess] celery@df63096d93de ready.
+[2024-06-24 09:04:45,900: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 00:55:36,227: INFO/MainProcess] beat: Starting...
+[2024-06-25 00:55:36,379: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 00:55:36,379: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 00:55:37,778: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 00:55:37,791: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 00:55:37,793: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 00:55:37,797: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 00:55:38,812: INFO/MainProcess] mingle: all alone
+[2024-06-25 00:55:38,847: INFO/MainProcess] celery@b0394da1d20d ready.
+[2024-06-25 00:55:49,012: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:01:10,753: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:01:10,753: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:01:11,366: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:01:11,377: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:01:11,379: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:01:11,383: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:01:12,396: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:01:12,423: INFO/MainProcess] celery@14c5d3110954 ready.
+[2024-06-25 01:01:23,798: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:01:35,338: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:01:35,339: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:01:36,066: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:01:36,077: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:01:36,078: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:01:36,081: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:01:37,094: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:01:37,114: INFO/MainProcess] celery@14c5d3110954 ready.
+[2024-06-25 01:01:38,798: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:01:57,320: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:01:57,321: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:01:58,236: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:01:58,259: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:01:58,261: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:01:58,266: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:01:59,291: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:01:59,336: INFO/MainProcess] celery@14c5d3110954 ready.
+[2024-06-25 01:02:03,798: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:02:09,383: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:02:09,385: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:02:10,034: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:02:10,045: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:02:10,046: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:02:10,049: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:02:11,062: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:02:11,086: INFO/MainProcess] celery@14c5d3110954 ready.
+[2024-06-25 01:02:13,797: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:02:44,556: INFO/MainProcess] beat: Starting...
+[2024-06-25 01:02:45,533: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:02:45,534: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:02:46,516: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:02:46,533: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:02:46,535: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:02:46,540: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:02:47,558: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:02:47,585: INFO/MainProcess] celery@634a5f40b69c ready.
+[2024-06-25 01:02:57,696: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:17:28,181: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:17:28,182: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:17:28,913: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:17:28,927: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:17:28,928: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:17:28,933: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:17:29,952: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:17:29,977: INFO/MainProcess] celery@634a5f40b69c ready.
+[2024-06-25 01:17:32,696: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:18:36,663: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:18:36,664: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:18:37,483: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:18:37,493: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:18:37,494: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:18:37,498: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:18:38,511: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:18:38,540: INFO/MainProcess] celery@634a5f40b69c ready.
+[2024-06-25 01:18:42,695: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:18:48,389: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:18:48,389: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:18:49,028: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:18:49,037: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:18:49,038: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:18:49,041: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:18:50,054: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:18:50,075: INFO/MainProcess] celery@634a5f40b69c ready.
+[2024-06-25 01:18:52,695: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:20:33,970: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:20:33,970: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:20:34,621: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:20:34,631: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:20:34,632: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:20:34,639: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:20:35,652: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:20:35,669: INFO/MainProcess] celery@634a5f40b69c ready.
+[2024-06-25 01:20:37,696: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:20:45,541: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:20:45,542: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:20:46,166: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:20:46,175: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:20:46,176: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:20:46,179: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:20:47,192: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:20:47,227: INFO/MainProcess] celery@634a5f40b69c ready.
+[2024-06-25 01:20:47,696: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:21:31,742: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:21:31,743: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:21:32,473: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:21:32,493: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:21:32,494: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:21:32,499: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:21:33,522: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:21:33,561: INFO/MainProcess] celery@634a5f40b69c ready.
+[2024-06-25 01:21:37,697: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:22:09,300: INFO/MainProcess] beat: Starting...
+[2024-06-25 01:22:10,294: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:22:10,296: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:22:11,071: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:22:11,082: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:22:11,084: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:22:11,087: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:22:12,102: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:22:12,132: INFO/MainProcess] celery@f9c792db0e0c ready.
+[2024-06-25 01:22:21,942: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:23:11,388: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:23:11,388: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:23:12,204: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:23:12,217: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:23:12,219: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:23:12,225: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:23:13,240: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:23:13,263: INFO/MainProcess] celery@f9c792db0e0c ready.
+[2024-06-25 01:23:16,941: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 01:23:36,405: INFO/MainProcess] beat: Starting...
+[2024-06-25 01:23:37,126: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 01:23:37,127: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 01:23:37,972: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:23:37,983: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 01:23:37,984: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 01:23:37,988: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 01:23:39,002: INFO/MainProcess] mingle: all alone
+[2024-06-25 01:23:39,029: INFO/MainProcess] celery@696fa74ee031 ready.
+[2024-06-25 01:23:49,268: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:25:53,793: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:25:53,794: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:25:54,955: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:25:54,978: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:25:54,979: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:25:54,987: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:25:56,003: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:25:56,023: INFO/MainProcess] celery@ccc686445c49 ready.
+[2024-06-25 05:26:07,793: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:26:07,794: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:26:08,830: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:26:08,847: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:26:08,848: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:26:08,854: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:26:09,871: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:26:09,892: INFO/MainProcess] celery@ccc686445c49 ready.
+[2024-06-25 05:26:12,575: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:26:40,406: INFO/MainProcess] beat: Starting...
+[2024-06-25 05:26:40,855: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:26:40,856: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:26:42,228: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:26:42,240: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:26:42,242: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:26:42,248: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:26:43,261: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:26:43,284: INFO/MainProcess] celery@cf98be4e1f1c ready.
+[2024-06-25 05:26:53,991: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:29:58,501: INFO/MainProcess] beat: Starting...
+[2024-06-25 05:30:00,250: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:30:00,251: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:30:01,643: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:30:01,660: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:30:01,661: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:30:01,666: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:30:02,683: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:30:02,726: INFO/MainProcess] celery@b9b1d19c339d ready.
+[2024-06-25 05:30:14,825: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:41:53,903: INFO/MainProcess] beat: Starting...
+[2024-06-25 05:41:54,302: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:41:54,303: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:41:55,047: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:41:55,059: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:41:55,061: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:41:55,065: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:41:56,081: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:41:56,104: INFO/MainProcess] celery@e385d58d0f19 ready.
+[2024-06-25 05:42:06,809: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:44:47,625: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:44:47,627: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:44:48,994: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:44:49,010: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:44:49,012: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:44:49,017: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:44:50,034: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:44:50,053: INFO/MainProcess] celery@e385d58d0f19 ready.
+[2024-06-25 05:44:51,810: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:45:02,324: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:45:02,325: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:45:03,314: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:45:03,324: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:45:03,325: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:45:03,329: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:45:04,346: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:45:04,377: INFO/MainProcess] celery@e385d58d0f19 ready.
+[2024-06-25 05:45:06,809: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:46:33,288: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:46:33,289: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:46:34,191: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:46:34,207: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:46:34,209: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:46:34,218: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:46:35,234: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:46:35,266: INFO/MainProcess] celery@e385d58d0f19 ready.
+[2024-06-25 05:46:36,809: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:48:55,507: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:48:55,507: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:48:56,365: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:48:56,376: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:48:56,378: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:48:56,382: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:48:57,396: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:48:57,414: INFO/MainProcess] celery@e385d58d0f19 ready.
+[2024-06-25 05:49:01,809: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:50:07,498: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:50:07,499: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:50:08,582: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:50:08,596: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:50:08,599: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:50:08,608: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:50:09,629: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:50:09,675: INFO/MainProcess] celery@e385d58d0f19 ready.
+[2024-06-25 05:50:11,810: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:50:21,090: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:50:21,091: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:50:22,040: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:50:22,054: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:50:22,055: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:50:22,058: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:50:23,077: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:50:23,119: INFO/MainProcess] celery@e385d58d0f19 ready.
+[2024-06-25 05:50:26,810: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:55:42,332: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:55:42,333: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:55:43,193: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:55:43,206: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:55:43,207: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:55:43,212: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:55:44,227: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:55:44,247: INFO/MainProcess] celery@e385d58d0f19 ready.
+[2024-06-25 05:55:46,810: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:56:51,606: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:56:51,607: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:56:52,686: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:56:52,699: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:56:52,701: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:56:52,708: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:56:53,723: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:56:53,749: INFO/MainProcess] celery@e385d58d0f19 ready.
+[2024-06-25 05:56:56,809: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:58:53,875: INFO/MainProcess] beat: Starting...
+[2024-06-25 05:58:54,061: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:58:54,061: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:58:54,843: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:58:54,855: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:58:54,856: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:58:54,860: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:58:55,875: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:58:55,899: INFO/MainProcess] celery@455a418b8547 ready.
+[2024-06-25 05:59:06,314: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 05:59:45,798: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 05:59:45,799: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 05:59:46,605: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:59:46,618: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 05:59:46,619: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 05:59:46,628: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 05:59:47,645: INFO/MainProcess] mingle: all alone
+[2024-06-25 05:59:47,688: INFO/MainProcess] celery@455a418b8547 ready.
+[2024-06-25 05:59:51,316: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 06:01:11,254: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 06:01:11,255: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 06:01:12,251: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:01:12,263: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 06:01:12,264: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:01:12,268: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 06:01:13,283: INFO/MainProcess] mingle: all alone
+[2024-06-25 06:01:13,337: INFO/MainProcess] celery@455a418b8547 ready.
+[2024-06-25 06:01:16,314: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 06:02:41,161: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 06:02:41,161: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 06:02:42,112: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:02:42,121: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 06:02:42,123: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:02:42,127: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 06:02:43,142: INFO/MainProcess] mingle: all alone
+[2024-06-25 06:02:43,162: INFO/MainProcess] celery@455a418b8547 ready.
+[2024-06-25 06:02:46,315: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 06:03:36,076: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 06:03:36,077: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 06:03:36,925: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:03:36,935: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 06:03:36,936: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:03:36,939: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 06:03:37,952: INFO/MainProcess] mingle: all alone
+[2024-06-25 06:03:37,974: INFO/MainProcess] celery@455a418b8547 ready.
+[2024-06-25 06:03:41,314: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 06:07:03,163: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 06:07:03,165: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 06:07:04,427: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:07:04,448: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 06:07:04,452: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:07:04,464: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 06:07:05,492: INFO/MainProcess] mingle: all alone
+[2024-06-25 06:07:05,570: INFO/MainProcess] celery@455a418b8547 ready.
+[2024-06-25 06:07:06,317: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 06:12:06,888: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 06:12:06,888: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 06:12:07,765: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:12:07,780: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 06:12:07,782: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:12:07,786: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 06:12:08,801: INFO/MainProcess] mingle: all alone
+[2024-06-25 06:12:08,826: INFO/MainProcess] celery@455a418b8547 ready.
+[2024-06-25 06:12:11,313: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 06:15:22,719: INFO/MainProcess] beat: Starting...
+[2024-06-25 06:15:23,065: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 06:15:23,065: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 06:15:23,983: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:15:23,998: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 06:15:24,000: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:15:24,005: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 06:15:25,020: INFO/MainProcess] mingle: all alone
+[2024-06-25 06:15:25,042: INFO/MainProcess] celery@6109c19fa5d3 ready.
+[2024-06-25 06:15:35,657: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 06:20:33,833: INFO/MainProcess] beat: Starting...
+[2024-06-25 06:20:34,142: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 06:20:34,143: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 06:20:34,915: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:20:34,930: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 06:20:34,931: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 06:20:34,937: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 06:20:35,956: INFO/MainProcess] mingle: all alone
+[2024-06-25 06:20:35,986: INFO/MainProcess] celery@3caf1f8fc3fd ready.
+[2024-06-25 06:20:48,062: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 07:30:01,286: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 07:30:01,287: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 07:30:02,831: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:30:02,853: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 07:30:02,859: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:30:02,866: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 07:30:03,887: INFO/MainProcess] mingle: all alone
+[2024-06-25 07:30:03,933: INFO/MainProcess] celery@3caf1f8fc3fd ready.
+[2024-06-25 07:30:08,060: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 07:30:15,784: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 07:30:15,785: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 07:30:16,727: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:30:16,747: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 07:30:16,749: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:30:16,754: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 07:30:17,784: INFO/MainProcess] mingle: all alone
+[2024-06-25 07:30:17,821: INFO/MainProcess] celery@3caf1f8fc3fd ready.
+[2024-06-25 07:30:18,061: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 07:41:32,431: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 07:41:32,432: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 07:41:33,629: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:41:33,654: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 07:41:33,656: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:41:33,666: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 07:41:34,685: INFO/MainProcess] mingle: all alone
+[2024-06-25 07:41:34,704: INFO/MainProcess] celery@3caf1f8fc3fd ready.
+[2024-06-25 07:41:38,060: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 07:42:30,802: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 07:42:30,804: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 07:42:31,921: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:42:31,939: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 07:42:31,940: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:42:31,950: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 07:42:32,971: INFO/MainProcess] mingle: all alone
+[2024-06-25 07:42:32,988: INFO/MainProcess] celery@3caf1f8fc3fd ready.
+[2024-06-25 07:42:33,060: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 07:42:44,614: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 07:42:44,614: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 07:42:45,555: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:42:45,570: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 07:42:45,572: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:42:45,580: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 07:42:46,596: INFO/MainProcess] mingle: all alone
+[2024-06-25 07:42:46,620: INFO/MainProcess] celery@3caf1f8fc3fd ready.
+[2024-06-25 07:42:48,061: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 07:44:54,794: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 07:44:54,794: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 07:44:55,481: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:44:55,493: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 07:44:55,495: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:44:55,499: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 07:44:56,512: INFO/MainProcess] mingle: all alone
+[2024-06-25 07:44:56,531: INFO/MainProcess] celery@3caf1f8fc3fd ready.
+[2024-06-25 07:44:58,061: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 07:45:06,897: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 07:45:06,898: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 07:45:07,573: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:45:07,583: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 07:45:07,584: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:45:07,587: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 07:45:08,600: INFO/MainProcess] mingle: all alone
+[2024-06-25 07:45:08,623: INFO/MainProcess] celery@3caf1f8fc3fd ready.
+[2024-06-25 07:45:13,061: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 07:48:14,194: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 07:48:14,194: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 07:48:14,929: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:48:14,943: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 07:48:14,945: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:48:14,953: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 07:48:15,969: INFO/MainProcess] mingle: all alone
+[2024-06-25 07:48:15,994: INFO/MainProcess] celery@3caf1f8fc3fd ready.
+[2024-06-25 07:48:18,060: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 07:48:43,364: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 07:48:43,364: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 07:48:44,122: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:48:44,136: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 07:48:44,138: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:48:44,143: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 07:48:45,160: INFO/MainProcess] mingle: all alone
+[2024-06-25 07:48:45,184: INFO/MainProcess] celery@3caf1f8fc3fd ready.
+[2024-06-25 07:49:22,871: INFO/MainProcess] beat: Starting...
+[2024-06-25 07:49:23,480: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 07:49:23,481: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 07:49:26,063: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:49:26,093: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 07:49:26,094: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:49:26,107: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 07:49:27,127: INFO/MainProcess] mingle: all alone
+[2024-06-25 07:49:27,192: INFO/MainProcess] celery@9cf60f4f74b8 ready.
+[2024-06-25 07:49:36,608: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 07:52:30,026: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 07:52:30,027: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 07:52:31,909: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:52:31,923: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 07:52:31,925: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:52:31,929: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 07:52:32,945: INFO/MainProcess] mingle: all alone
+[2024-06-25 07:52:32,984: INFO/MainProcess] celery@9cf60f4f74b8 ready.
+[2024-06-25 07:52:36,606: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 07:52:47,845: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 07:52:47,846: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 07:52:48,778: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:52:48,790: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 07:52:48,792: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 07:52:48,797: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 07:52:49,817: INFO/MainProcess] mingle: all alone
+[2024-06-25 07:52:49,835: INFO/MainProcess] celery@9cf60f4f74b8 ready.
+[2024-06-25 07:52:51,607: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-06-25 08:02:18,863: INFO/MainProcess] beat: Starting...
+[2024-06-25 08:02:18,913: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+[2024-06-25 08:02:18,913: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2024-06-25 08:02:19,734: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 08:02:19,746: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-06-25 08:02:19,747: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-06-25 08:02:19,754: INFO/MainProcess] mingle: searching for neighbors
+[2024-06-25 08:02:20,768: INFO/MainProcess] mingle: all alone
+[2024-06-25 08:02:20,798: INFO/MainProcess] celery@eaee10f38f29 ready.
+[2024-06-25 08:02:35,645: INFO/MainProcess] Events of group {task} enabled by remote.
